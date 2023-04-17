@@ -2,7 +2,7 @@
 ![Logo](logo.png)
 
 ## Live Sites
-* [KnightC](https://insideknightshift.github.io/Documentation/KnightC/)
+* [KnightC](https://insideknightshift.github.io/Documentation/KnightC/index.htm)
 * [Editor](https://InsideKnightShift.github.io/Documentation/EditorManual/EditorManual.html)
 
 ## Contributing
