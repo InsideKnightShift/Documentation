@@ -1,5 +1,5 @@
 # Documentation
-![Logo](Images/Logo.jpg)
+![Logo](Images/Logo.png)
 
 ## Live Sites
 * [KnightC](https://insideknightshift.github.io/Documentation/KnightC/index.htm)
